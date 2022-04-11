@@ -1,0 +1,1 @@
+export const squareSum = numbers => numbers.reduce((a, b)=> a + b**2, 0)
